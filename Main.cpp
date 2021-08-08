@@ -1,7 +1,7 @@
 /*	
 	Game: Snake
 	Author: Jack Xiang
-	Version: 1.3
+	Version: 1.0
 */
 
 #include "Snake.h"
